@@ -55,3 +55,5 @@ This dashboard demonstrates an efficient and practical way to monitor and manage
 - Allocate resources more effectively
 - Improve asset reliability and operational safety
 By minimizing complexity and maximizing clarity, this tool is ideal for routine use in high-demand maintenance environments.
+
+source: https://effectivedashboards.com/ 
